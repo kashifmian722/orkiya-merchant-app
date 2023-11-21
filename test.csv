@@ -1,0 +1,6 @@
+name,description,price,productType,tax,active
+csv product 6,descriptiosfn 6,250,product,19,false
+csv product 7,descriptiosfn 7,350,product,7,true
+csv product 8,descriptiosfn 8,450,product,19,false
+csv product 9,descriptiosfn 9,550,product,19,true
+csv product 10,descriptiosfn 10,650,product,7,true
